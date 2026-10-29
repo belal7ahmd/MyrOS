@@ -1,0 +1,5 @@
+
+set(CMAKE_C_COMPILER x86_64-elf-gcc)
+set(CMAKE_LINKER x86_64-elf-ld)
+
+set(CMAKE_ASM_NASM_COMPILER nasm)

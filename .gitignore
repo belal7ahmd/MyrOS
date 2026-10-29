@@ -1,0 +1,5 @@
+/build
+/iso
+/kmain.o
+/loader.o
+/run.sh
